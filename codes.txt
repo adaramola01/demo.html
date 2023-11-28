@@ -1,1 +1,2 @@
 codes.html
+check memo for daily stand up
